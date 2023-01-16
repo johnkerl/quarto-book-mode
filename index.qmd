@@ -1,0 +1,4 @@
+---
+title: Title from index.qmd metadata
+---
+# Title from index.qmd octothorpe

@@ -1,0 +1,7 @@
+/.quarto/
+docs/.quarto
+/_book
+
+# Vim swapfiles
+.*.sw?
+.sw?

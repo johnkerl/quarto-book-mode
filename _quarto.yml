@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Title from _quarto.yml"
+  author: "John Kerl"
+  # date: "1/16/2023"
+
+  chapters:
+    - index.qmd
+    - "body/body1.md"
+    - "body/body2.md"
+    - "appx/appx1.md"
+    - "appx/appx2.md"
+
+format:
+  html:
+    theme: cosmo
+    mainfont: Baskerville
+    fontsize: 1rem
+  pdf:
+    documentclass: scrreprt
